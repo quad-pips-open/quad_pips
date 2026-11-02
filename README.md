@@ -8,7 +8,7 @@
 </p>
 
 <p>
-    <img align="center" width="750" src="./assets/vision_final_sim.png" alt="empty"> 
+    <img align="center" width="99.8%" src="./assets/vision_final_sim.png" alt="empty"> 
 </p>
 
 ## <a name="Citation"></a>Citation
